@@ -14,14 +14,13 @@ I’m **Armaan Indani**, a B.Tech CSE student at VIT Vellore. Passionate abo
 
 ### 🏆 Achievements & Certifications
 
-- 🧠 Solved **250+ LeetCode** problems, mastering arrays, graphs, and dynamic programming
+- 🧠 Solved **300+ LeetCode** problems, mastering arrays, graphs, and dynamic programming
 - 🥈 **2nd Place**, ACM‑VIT Reverse Coding (Feb 2025)
 - ☁️ **AWS Certified Cloud Practitioner** (Jul 2024)
 
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-armaan--indani-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/armaan-indani)
-[![GitHub](https://img.shields.io/badge/GitHub-Armaan--Indani-black?style=for-the-badge&logo=github)](https://github.com/Armaan-Indani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ArmaanIndani-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ArmaanIndani/)
 [![Gmail](https://img.shields.io/badge/Gmail-indaniarmaan4@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:indaniarmaan4@gmail.com)
 
